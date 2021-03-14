@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">sadewacoffee</string>
+    <string name="Nama_kafe">Sadewa Coffee &amp; Bakery</string>
+    <string name="about_me">About me</string>
+    <string name="gallang_sadewa">Gallang Sadewa</string>
+    <string name="description">Hello everyone! saya adalah salah peserta dari bangkit academy, saya disini belajar tentang mobile development.</string>
+    <string name="email">gallangsadewa@gmail.com | a1791828@bangkit.academy</string>
+    <string name="hallo">Hallo, \nSelamat Datang!</string>
+    <string name="contoh_nama">Nama makanan</string>
+    <string name="contoh_harga">Harga: Rp.25.000</string>
+    <string name="contoh_deskripsi">kopi nikmat nyaman di lambung</string>
+    <string name="detail_item">Detail</string>
+    <string name="harga">Rp. 10.000</string>
+</resources>
